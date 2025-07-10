@@ -11,6 +11,30 @@
       "title": "Chicken Curry",
       "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
       "description": "Spicy Indian-style chicken curry with rice."
+    },
+    {
+      "id": 3,
+      "title": "Avocado Toast",
+      "image": "https://images.unsplash.com/photo-1584270354949-1b8b2fd5aa16",
+      "description": "Simple and healthy breakfast with smashed avocado on toast."
+    },
+    {
+      "id": 4,
+      "title": "Beef Steak",
+      "image": "https://images.unsplash.com/photo-1600275668068-3ec1cf3e304d",
+      "description": "Juicy grilled beef steak with garlic butter sauce."
+    },
+    {
+      "id": 5,
+      "title": "Veggie Pizza",
+      "image": "https://images.unsplash.com/photo-1601924638867-3ec9bc3c573f",
+      "description": "Crispy crust pizza topped with fresh vegetables and cheese."
+    },
+    {
+      "id": 6,
+      "title": "Strawberry Smoothie",
+      "image": "https://images.unsplash.com/photo-1613145998576-0145a3d05813",
+      "description": "Refreshing drink made with strawberries, banana, and yogurt."
     }
   ]
 }
